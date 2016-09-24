@@ -8,7 +8,9 @@ Original source taken from: https://github.com/sparkfun/SparkFun_SX1509_Arduino_
 Use:
 
 make
+
 sudo make install
+
 make demo
 
 I'm using this to control buttons and encoder wheels for the
